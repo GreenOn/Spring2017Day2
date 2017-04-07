@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pramod vadrevu",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenOn/Spring2017Day2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GreenOn/Spring2017Day2/issues"
+  },
+  "homepage": "https://github.com/GreenOn/Spring2017Day2#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
 }
